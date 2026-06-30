@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&display=swap");
+
+body {
+  font-family: "Noto Nastaliq Urdu", serif;
+}
+div {
+  display: flex;
+  flex-wrap: wrap;
+  height: 60vh;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+input {
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-family: "Noto Nastaliq Urdu", serif;
+}
+button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-family: "Noto Nastaliq Urdu", serif;
+}
+#result {
+  width: 100%;
+  font-size: xx-large;
+  text-align: center;
+  margin-top: 0px;
+}
